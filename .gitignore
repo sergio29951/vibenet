@@ -1,0 +1,20 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+ios/
+android/
+linux/
+macos/
+windows/
+web/manifest.json
+web/favicon.png
+web/icons/
+
+# VSCode
+.vscode/
+
+# Misc
+*.iml
+*.log
